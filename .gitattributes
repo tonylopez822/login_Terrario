@@ -1,0 +1,8 @@
+# Archivos JavaScript utilizarán LF como fin de línea
+*.js text eol=lf
+
+# Archivos JSON también utilizarán LF como fin de línea
+*.json text eol=lf
+
+# Archivos Markdown utilizarán LF como fin de línea
+*.md text eol=lf
